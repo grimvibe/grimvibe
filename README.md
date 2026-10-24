@@ -16,7 +16,7 @@
 
 ```yaml
 Name: Lucid Dev
-Username: lawrencenjeri4-lgtm
+Username: grimvibe
 Location: Kenya 🇰🇪
 
 Current Focus:
@@ -103,7 +103,7 @@ $ uptime
 # 🚀 Current Project
 
 ```yaml
-Name: Kenya Ultra Bot
+Name: Lucid Bot Hosting
 Status: Active Development
 Focus: AI + Automation
 ```
@@ -131,5 +131,5 @@ Focus: AI + Automation
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lawrencenjeri4-lgtm&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=grimvibe&label=Profile+Views&color=0e75b6&style=flat" />
 </p>

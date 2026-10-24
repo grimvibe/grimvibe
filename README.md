@@ -1,16 +1,135 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/33903560/README.md)
+<p align="center">
+  <img src="file_00000000450471f4bee2dfebd54ff7dd.png" alt="Lucid Dev Banner"/>
+</p>
+<div align="center">
 
-<!--
-**grimvibe/grimvibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Automation Developer
 
-Here are some ideas to get you started:
+### 🇰🇪 Kenya • 🚀 Builder • 🌙 Night Coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 🌌 About Me
+
+```yaml
+Name: Lucid Dev
+Username: lawrencenjeri4-lgtm
+Location: Kenya 🇰🇪
+
+Current Focus:
+  - AI & Automation
+  - Telegram Bots
+  - Web Development
+  - Open Source
+
+Status: Online 🟢
+Mission: Turn ideas into reality
+```
+
+---
+
+# ⚙️ Tech Arsenal
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lawrencenjeri4-lgtm&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencenjeri4-lgtm&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lawrencenjeri4-lgtm&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Developer Philosophy
+
+```javascript
+const LucidDev = {
+    mindset: "Never Stop Learning",
+    currentMode: "BUILDING",
+
+    dailyRoutine() {
+        learn();
+        code();
+        deploy();
+        improve();
+        repeat();
+    }
+};
+```
+
+---
+
+# 🌑 Terminal
+
+```bash
+$ whoami
+Lucid Dev
+
+$ current_focus
+AI | Automation | Web Development
+
+$ status
+Building The Future...
+
+$ uptime
+∞ learning
+```
+
+---
+
+# 🚀 Current Project
+
+```yaml
+Name: Kenya Ultra Bot
+Status: Active Development
+Focus: AI + Automation
+```
+
+---
+
+# 🌟 Current Interests
+
+🤖 AI-powered applications
+
+⚡ Automation systems
+
+🌐 Modern web platforms
+
+☁️ Cloud-hosted services
+
+---
+
+<p align="center">
+⚡ CODE • CREATE • DEPLOY • REPEAT ⚡
+</p>
+
+<p align="center">
+<i>"The future belongs to those who build it."</i>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lawrencenjeri4-lgtm&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
